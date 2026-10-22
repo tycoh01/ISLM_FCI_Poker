@@ -1,0 +1,16 @@
+﻿.vs/
+[Bb]in/
+[Dd]ebug/
+[Rr]elease/
+[xX]64/
+[xX]86/
+[Pp]okerAI-ISLM/
+*.user
+*.suo
+*.sdf
+*.opensdf
+*.ilk
+*.pdb
+*.idb
+*.obj
+*.tlog/
